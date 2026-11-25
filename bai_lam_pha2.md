@@ -1,6 +1,6 @@
 # BÀI LÀM PHA 2 
 
-- **Họ tên:Pham Tuan Anh**
+- **Họ tên:Đặng Quang Hưng**
 - **Lớp:CNTT2**
 - **Link repository Pha2:**
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):ChatGPT,Gemini**
