@@ -1,6 +1,6 @@
 # BÀI LÀM PHA 1 
 
-- **Họ tên:Pham Tuan Anh**
+- **Họ tên:Đặng Quang Hưng**
 - **Lớp:CNTT2**
 - **Link repository Pha1:**
 
